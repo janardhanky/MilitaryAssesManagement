@@ -209,4 +209,4 @@ npm run dev
 
 ---
 
-> Made with ❤️ by Durai
+> Made with Janardhan K Y
